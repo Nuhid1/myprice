@@ -8,7 +8,7 @@ Instead of searching multiple e-commerce sites manually, MyPrice aggregates prod
 
 ## 🌐 Live Website
 
-https://mypricebd.netlify.app
+https://mypricebd.com
 
 ---
 
