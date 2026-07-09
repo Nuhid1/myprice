@@ -1,6 +1,6 @@
-# MyPrice
+# MyPrice BD
 
-**MyPrice** is a smart price comparison platform that helps users find the best product prices across multiple online stores in Bangladesh.
+**MyPrice BD** is a smart price comparison platform that helps users find the best product prices across multiple online stores in Bangladesh.
 
 Instead of searching multiple e-commerce sites manually, MyPrice aggregates product listings and allows users to compare prices instantly.
 
